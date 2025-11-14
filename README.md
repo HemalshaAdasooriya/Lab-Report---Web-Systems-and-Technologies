@@ -1,1 +1,1 @@
-<h1>javascript practical</h1>
+<h1>Javascript Practical</h1>
